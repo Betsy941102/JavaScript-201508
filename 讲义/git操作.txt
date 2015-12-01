@@ -1,5 +1,5 @@
 老师的仓库地址：https://github.com/zhufengpeixun/JavaScript-201508.git
-我自己for老师后的仓库：https://github.com/zhouxiaotian/JavaScript-201508.git
+我自己fork老师后的仓库：https://github.com/zhouxiaotian/JavaScript-201508.git
 
 我们通过 $ git clone 我们自己仓库的地址  把我们自己仓库中的代码克隆到了本地一份，默认的我们本地的代码就和github仓库保持连接了
 通过 $ git remote -v 来查看是否连接  "origin"是我们默认和自己远程仓库连接的用户名
